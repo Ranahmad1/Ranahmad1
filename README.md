@@ -125,8 +125,8 @@ Team engineering project delivering a smarter, more efficient grain-cleaning sol
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ahmadaslam0904/rana-ahmad-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadaslam0904&repo=rana-ahmad-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA3FF&text_color=c9d1d9&icon_color=4DA3FF" width="100%" alt="Portfolio repo" />
+<a href="https://github.com/ahmadaslam0904/ahmadaslam0904">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadaslam0904&repo=ahmadaslam0904&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA3FF&text_color=c9d1d9&icon_color=4DA3FF" width="100%" alt="Profile Repository" />
 </a>
 
 </td>
