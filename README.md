@@ -74,8 +74,8 @@ Git / GitHub · Linux · CI/CD · Figma
 
 <div align="center">
 
-<img height="164" src="https://github-readme-stats.vercel.app/api?username=ahmadaslam0904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA3FF&icon_color=4DA3FF&text_color=c9d1d9&ring_color=4DA3FF" alt="GitHub stats" />
-<img height="164" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaslam0904&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA3FF&text_color=c9d1d9" alt="Top languages" />
+
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadaslam0904&theme=tokyonight&hide_border=true&background=0D1117&stroke=4DA3FF&ring=4DA3FF&fire=4DA3FF&currStreakLabel=4DA3FF" alt="Streak stats" />
 
