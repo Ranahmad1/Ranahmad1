@@ -1,96 +1,403 @@
-<h1 align="center">Hi, I'm Rana Ahmad 👋</h1>
-<h3 align="center">Full Stack Engineer & AI Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%40+MADigital.pk;AI+%2F+LLM+Integration+%26+Prompt+Engineering;Shopify+%2B+WordPress+E-Commerce+Builds;BSCS+%40+University+of+Central+Punjab" alt="Typing SVG" />
+# ⚡ AHMAD
+
+### `FULL STACK ENGINEER` · `AI DEVELOPER` · `BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+digital+products.;Engineering+AI-powered+experiences.;Turning+ideas+into+production-ready+systems.;Full+Stack+%7C+AI+%7C+Automation+%7C+E-Commerce" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/ahmadaslam0904">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ranahmad0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadaslam0904&label=PROFILE+VIEWS&color=3B82F6&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> **I don't just write code — I build digital experiences.**
+
+</div>
+
+---
+
+# 🧬 `whoami`
+
+I'm **Ahmad**, a **Full Stack Engineer at MADigital.pk** and a **BSCS student at the University of Central Punjab (UCP)**.
+
+My work focuses on the intersection of:
+
+```text
+        SOFTWARE ENGINEERING
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   FULL STACK    │
+        │   DEVELOPMENT   │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │   AI / LLM      │
+        │   INTEGRATION   │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │   AUTOMATION    │
+        │  & INTELLIGENCE │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │ DIGITAL PRODUCTS│
+        └─────────────────┘
+```
+
+I enjoy transforming ideas into **modern, scalable and intelligent digital products** — combining engineering, AI, automation, and user experience.
+
+---
+
+# 🚀 `CURRENTLY`
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Engineering
+
+**Full Stack Engineer**
+`MADigital.pk`
+
+Building modern web products and integrating AI into production systems.
+
+</td>
+
+<td width="50%">
+
+### 🎓 Education
+
+**BSCS — University of Central Punjab**
+
+`Since 2025`
+
+Focused on computer science, software engineering and emerging technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 `CORE FOCUS`
+
+<div align="center">
+
+|      `01`      |       `02`       |       `03`      |       `04`       |
+| :------------: | :--------------: | :-------------: | :--------------: |
+|       🚀       |        🤖        |        ⚙️       |        🛒        |
+| **Full Stack** |   **AI / LLM**   |  **Automation** |  **E-Commerce**  |
+|   Web Systems  | Intelligent Apps | Smart Workflows | Digital Commerce |
+
+</div>
+
+---
+
+# 🛠️ `ENGINEERING STACK`
+
+## 🌐 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
 </p>
 
-<p align="center">
-  <a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ranahmad0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Ahmadaslam0904@gmail.com"><img src="https://img.shields.io/badge/Email-D9A441?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+**Modern UI · Responsive Interfaces · Component Architecture · Interactive Experiences**
+
+---
+
+## ⚙️ Backend & Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp" />
+
 </p>
 
----
-
-### About Me
-
-- 🚀 Full Stack Engineer at **MADigital.pk**, building modern web products and integrating AI into production systems
-- 🎓 BSCS student at the **University of Central Punjab (UCP)**, since 2025
-- 🤖 Focused on AI/LLM integration, prompt engineering, and intelligent automation
-- 🛒 Certified **Shopify E-Commerce Expert** — also build with WordPress/Elementor
-- 🏆 **Overall Best Award — Digital Logic Design**, UCP Launchpad 2026 (The Ultimate Tech Pitch)
-- 📍 Based in Faisalabad, Punjab, Pakistan
-- 💬 Ask me about full stack development, AI agents, or e-commerce builds
+**Full-Stack Architecture · APIs · Application Logic · Database-Driven Systems**
 
 ---
 
-### Tech Stack
+## 🤖 AI / Intelligent Systems
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### `AI × SOFTWARE`
 
-**Backend**
+**LLM Integration**
+↓
+**Prompt Engineering**
+↓
+**AI-Powered Features**
+↓
+**Intelligent Automation**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+</div>
 
-**AI / ML**
+My current AI focus includes:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-2DD4BF?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D9A441?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square)
-
-**Business & Design**
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+* 🤖 LLM integration
+* 🧠 Prompt engineering
+* ⚡ AI-powered workflows
+* 🔄 Intelligent automation
+* 🧩 AI agents and production integrations
 
 ---
 
+## 🎨 Creative Engineering
 
+From the portfolio architecture to product interfaces, I work with technologies and patterns including:
 
+`Three.js` · `React Three Fiber` · `Framer Motion` · `GSAP` · `Lenis`
 
-### Certifications
+Focused on creating:
 
-18 verified certifications across full stack development, AI/prompt engineering, and e-commerce — issued by Google, IBM, Coursera, SMIT, NITSEP, and OEC.
-
-| Certification | Issuer |
-|---|---|
-| Shopify E-Commerce Expert (Batch-1) | Saylani Welfare International Trust (SMIT) |
-| Full Stack Web Engineer | NITSEP |
-| Google AI Essentials | Google (Coursera) |
-| Google Prompting Essentials | Google (Coursera) |
-| Getting Started with Generative AI | IBM |
-| Soft Skills Training | OEC |
-
-🔗 Full list with verification links on the **[Certificate Museum](https://ahmadaslam0904.github.io/rana-ahmad-portfolio/#certificates)**.
+**3D experiences · Motion design · Interactive interfaces · Premium SaaS UI**
 
 ---
 
-### Let's Connect
+## 🧰 Tooling & Workflow
 
-<p align="center">
-  <a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/ranahmad0/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:Ahmadaslam0904@gmail.com">Email</a>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress" />
+
 </p>
 
-<p align="center"><i>Full Stack Engineer & AI Developer, building intelligent web products end to end.</i></p>
+My development workflow emphasizes:
+
+`Build → Test → Refine → Deploy → Iterate`
+
+---
+
+# 🏆 `ACHIEVEMENT UNLOCKED`
+
+<div align="center">
+
+## 🥇 OVERALL BEST AWARD
+
+### Digital Logic Design
+
+**UCP Launchpad 2026 — The Ultimate Tech Pitch**
+
+<br/>
+
+`████████████████████████████████████`
+
+**Recognized with the Overall Best Award**
+
+</div>
+
+---
+
+# 🛒 `E-COMMERCE`
+
+### Certified Shopify E-Commerce Expert
+
+**Batch 1 · Saylani Welfare International Trust (SMIT)**
+
+I also work with:
+
+* Shopify
+* WordPress
+* Elementor
+* E-Commerce experiences
+* Business-focused websites
+
+---
+
+# 🎓 `CERTIFICATION VAULT`
+
+### `18 VERIFIED CERTIFICATIONS`
+
+My certification journey spans:
+
+**FULL STACK DEVELOPMENT**
+**AI / PROMPT ENGINEERING**
+**E-COMMERCE**
+**PROFESSIONAL SKILLS**
+
+### Selected Certifications
+
+| 🏅 Certification                    | 🏛️ Issuer                                 |
+| :---------------------------------- | :----------------------------------------- |
+| Shopify E-Commerce Expert — Batch 1 | Saylani Welfare International Trust (SMIT) |
+| Full Stack Web Engineer             | NITSEP                                     |
+| Google AI Essentials                | Google · Coursera                          |
+| Google Prompting Essentials         | Google · Coursera                          |
+| Getting Started with Generative AI  | IBM                                        |
+| Soft Skills Training                | OEC                                        |
+
+<br/>
+
+<div align="center">
+
+### 🏛️ CERTIFICATE MUSEUM
+
+**Explore the complete collection & verification links**
+
+<br/>
+
+<a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/#certificates">
+
+<img src="https://img.shields.io/badge/ENTER_CERTIFICATE_MUSEUM-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌌 `PORTFOLIO`
+
+<div align="center">
+
+### A Digital Representation of My Work
+
+My portfolio is designed around an **AI-OS inspired experience**, combining:
+
+`3D Universe` · `Neural Visuals` · `Interactive Motion` · `Modern SaaS UI`
+
+<br/>
+
+<a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/">
+
+<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-111827?style=for-the-badge&labelColor=3B82F6"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 `GITHUB INTELLIGENCE`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadaslam0904&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaslam0904&layout=compact&hide_border=true&theme=transparent"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ahmadaslam0904&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🧩 `HOW I THINK`
+
+```text
+01  Understand the problem
+          ↓
+02  Design the system
+          ↓
+03  Build the experience
+          ↓
+04  Integrate intelligence
+          ↓
+05  Test & refine
+          ↓
+06  Ship
+          ↓
+07  Keep improving
+```
+
+> **The goal isn't to use the most technology.
+> The goal is to use the right technology to create the best solution.**
+
+---
+
+# 🔭 `WHAT'S NEXT`
+
+I'm continuously exploring the space where:
+
+<div align="center">
+
+### `AI`
+
+### `+`
+
+### `SOFTWARE ENGINEERING`
+
+### `+`
+
+### `AUTOMATION`
+
+### `+`
+
+### `BUSINESS`
+
+## → Become Intelligent Digital Products
+
+</div>
+
+---
+
+# 🤝 `LET'S CONNECT`
+
+<div align="center">
+
+### Have an idea worth building?
+
+I'm interested in conversations around:
+
+**Full Stack Development · AI · LLMs · AI Agents · Automation · E-Commerce**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ranahmad0/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ahmadaslam0904">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ahmadaslam0904.github.io/rana-ahmad-portfolio/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 📍 Faisalabad, Punjab, Pakistan
+
+</div>
+
+---
+
+<div align="center">
+
+## `BUILD • LEARN • INNOVATE`
+
+<br/>
+
+**Thanks for visiting my profile.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+
+</div>
