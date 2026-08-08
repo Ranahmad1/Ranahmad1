@@ -65,17 +65,7 @@
 
 ---
 
-### Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadaslam0904/ahmadaslam0904/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" />
-</p>
-
-### 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadaslam0904/ahmadaslam0904/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
 
 ### GitHub Stats
 
