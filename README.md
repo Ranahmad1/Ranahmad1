@@ -4,86 +4,162 @@
 
 ### Full Stack Engineer · AI Developer · Computer Science Student
 
-**Building software, exploring AI, and turning ideas into working products.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+I build web applications, AI-powered solutions, and automation workflows.
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science student and developer focused on building modern software
-with **Full Stack Development, Artificial Intelligence, Generative AI, and Automation**.
+I'm a Computer Science student at the **University of Central Punjab (UCP), Faisalabad**, focused on software development and emerging AI technologies.
 
-I enjoy working across the stack — from interfaces and application logic to APIs,
-integrations, automation workflows, and AI-powered solutions.
+My current work and learning revolve around **Full Stack Development, Artificial Intelligence, Generative AI, APIs, integrations, and automation**.
 
-My goal is simple:
+I enjoy taking an idea, understanding the problem behind it, and turning it into a working technical solution.
 
-> **Learn deeply. Build practically. Ship better software.**
-
-### Currently
-
-- 🎓 Studying **BS Computer Science** at University of Central Punjab (UCP), Faisalabad
-- 💻 Exploring **Full Stack Development**
-- 🤖 Learning and experimenting with **Generative AI**
-- ⚙️ Building **AI & automation workflows**
-- 🔌 Working with **APIs and integrations**
-- 🧠 Strengthening software engineering fundamentals
-- 🚀 Turning learning into practical projects
+Currently, I'm strengthening my software engineering skills while exploring how AI can be integrated into practical applications and automated workflows.
 
 ---
 
-# Tech Stack
+## What I Do
+
+**Full Stack Development**
+
+Building modern web applications and exploring frontend, backend, APIs, and application architecture.
+
+**Artificial Intelligence**
+
+Learning and experimenting with Generative AI and AI-powered applications.
+
+**Automation**
+
+Designing workflows that connect tools, APIs, data, and AI to automate repetitive processes.
+
+**Software Development**
+
+Working on practical projects to improve programming, problem-solving, application development, and engineering skills.
+
+---
+
+## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-</p>
+`C++` · `Python` · `JavaScript` · `TypeScript`
 
-### Frontend
+### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
+`HTML` · `CSS` · `React` · `Next.js`
 
 ### Backend & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+`Node.js` · `Express` · `FastAPI` · `REST APIs`
 
 ### AI & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Generative AI · AI Automation · n8n · APIs · Workflow Automation**
+`Generative AI` · `AI Automation` · `n8n` · `API Integrations`
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress,qt" />
-</p>
+`Git` · `GitHub` · `Vercel` · `WordPress` · `Qt` · `Oracle APEX`
 
 ---
 
-# What I Build
+## Projects
+
+### UCP Bank Management System
+
+A **C++ / Qt** based Bank Management System developed as a practical software project.
+
+The project focuses on desktop application development, interface design, programming logic, and implementing a complete banking-system concept.
+
+**Technologies:** C++ · Qt
+
+---
+
+### FlexERP
+
+A modern **ERP / SaaS concept** focused on business software, automation, and integrations.
+
+The project explores how business operations can be managed through a centralized software platform, including integration concepts related to **Pakistan FBR**.
+
+**Areas:** ERP · SaaS · Business Applications · APIs · Automation
+
+---
+
+### AI & Automation Workflows
+
+Working with **n8n, AI models, APIs, and automated workflows** to explore practical ways of connecting different services and reducing repetitive tasks.
+
+My focus is on building reliable workflows rather than automation for the sake of automation.
+
+**Technologies:** n8n · AI · APIs · Automation
+
+---
+
+### AI-OS Portfolio
+
+Exploring an interactive developer portfolio concept combining modern web technologies, animation, and a 3D visual experience.
+
+The project is focused on presenting development work through a more immersive interface rather than a traditional static portfolio.
+
+**Technologies:** Next.js · React · 3D Web · Framer Motion · GSAP
+
+---
+
+### Qt / C++ Development
+
+I've also worked on **C++ and Qt-based application development**, including desktop interfaces and university programming projects.
+
+This work has helped me build a stronger foundation in object-oriented programming, application logic, and GUI development.
+
+---
+
+## Currently Learning
+
+I'm currently expanding my knowledge in:
+
+- Generative AI
+- AI-powered applications
+- AI automation
+- Full Stack Development
+- APIs & integrations
+- n8n workflow automation
+- Modern web application development
+- Software engineering practices
+
+---
+
+## Education
+
+### University of Central Punjab (UCP)
+
+**Bachelor of Science in Computer Science (BSCS)**
+
+Faisalabad, Pakistan
+
+Currently pursuing my degree while building practical projects alongside my academic studies.
+
+---
+
+## Areas of Interest
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   FULL STACK                 AI & AUTOMATION                 │
-│                                                              │
-│   Web Applications           Generative AI                   │
-│   Modern Interfaces          AI Workflows                    │
-│   APIs & Integrations        Automation Systems              │
-│   SaaS Concepts              Intelligent Applications        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Artificial Intelligence
+        │
+        ├── Generative AI
+        ├── AI Applications
+        └── AI Automation
+
+Software Engineering
+        │
+        ├── Full Stack Development
+        ├── APIs & Integrations
+        └── SaaS Applications
+
+Automation
+        │
+        ├── Workflow Automation
+        ├── n8n
+        └── AI-powered Workflows
