@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- HEADER — capsule-render (most reliable) -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0d0d,40:0a1628,70:0f3460,100:1a1a2e&text=Rana%20Ahmad&fontSize=68&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Builder&descAlignY=65&descSize=17&descColor=7dd3fc&animation=fadeIn" width="100%"/>
 
-<!-- BADGES ROW -->
+<!-- BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ranahmad1&label=Profile+Views&color=00d4ff&style=for-the-badge"/>
   &nbsp;
@@ -12,24 +12,16 @@
   <img src="https://img.shields.io/badge/Open%20To%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%40+MADigital.pk+%F0%9F%9A%80;Building+AI-powered+Web+Products+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Laravel;BSCS+Student+%40+UCP+%E2%80%94+Batch+2025;Faisalabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+The+World"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://ranahmad1.github.io/rana-ahmad-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-0d0d0d?style=for-the-badge"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/ranahmad0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:ahmadaslam0904@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/Ranahmad1">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- SOCIALS -->
+<a href="https://ranahmad1.github.io/rana-ahmad-portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0d0d0d?style=for-the-badge"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ranahmad0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:ahmadaslam0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Ranahmad1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -48,8 +40,8 @@
 
 <br/><br/>
 
-**Rana Ahmad**  
-Full Stack Engineer  
+**Rana Ahmad**
+Full Stack Engineer
 📍 Faisalabad, Pakistan 🇵🇰
 
 <br/>
@@ -96,15 +88,36 @@ motto: "Ship things that matter."
 ## 📊 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Ranahmad1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=7dd3fc&sideNums=ffffff&currStreakNum=ffffff" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Ranahmad1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=7dd3fc&sideNums=ffffff&currStreakNum=ffffff" width="65%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 GitHub Trophies
+## 🏅 Achievements & Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ranahmad1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repos-5+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><sub>Public Repos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-1+_Year-7c3aed?style=for-the-badge&logo=lightning&logoColor=white"/>
+<br/><sub>Professional</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Certs-8+-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<br/><sub>Certifications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Award-Best_Overall-f59e0b?style=for-the-badge&logo=star&logoColor=white"/>
+<br/><sub>UCP Launchpad 2026</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -138,7 +151,7 @@ motto: "Ship things that matter."
 <div align="center">
 
 | 🏆 Award | 🏛️ Issuer | 📅 Year |
-|---------|----------|--------|
+|----------|-----------|---------|
 | 🥇 **Overall Best — Digital Logic Design** | UCP Launchpad | 2026 |
 | 🎓 Shopify E-Commerce Expert | SMIT Batch-1 | 2025 |
 | 🎓 Full Stack Web Engineer | NITSEP | 2025 |
@@ -219,10 +232,10 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranahmad1&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=0f2040" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranahmad1&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true&area_color=0a1628&custom_title=Rana%20Ahmad's%20Contribution%20Graph" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -237,6 +250,6 @@ motto: "Ship things that matter."
 
 <br/>
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
