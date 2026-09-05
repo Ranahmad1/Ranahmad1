@@ -29,7 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT + PHOTO + STATS -->
 <table width="100%">
 <tr>
 <td width="26%" valign="top" align="center">
@@ -93,7 +92,7 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 Achievements & Stats
+## 🏅 Achievements
 
 <div align="center">
 
@@ -232,10 +231,15 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Graph
+## 📈 Contribution Calendar
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranahmad1&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true&area_color=0a1628&custom_title=Rana%20Ahmad's%20Contribution%20Graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.raction.me/00d4ff/Ranahmad1">
+  <img src="https://ghchart.raction.me/00d4ff/Ranahmad1" alt="Rana Ahmad's GitHub Contribution Chart" width="100%"/>
+</picture>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
