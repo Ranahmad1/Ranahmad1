@@ -1,25 +1,24 @@
+<!-- SEO: Rana Ahmad | Full Stack Engineer | Pakistan | React Next.js Node.js Laravel Python AI Developer Faisalabad -->
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0d0d,40:0a1628,70:0f3460,100:1a1a2e&text=Rana%20Ahmad&fontSize=68&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Builder&descAlignY=65&descSize=17&descColor=7dd3fc&animation=fadeIn" width="100%"/>
 
-<!-- BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ranahmad1&label=Profile+Views&color=00d4ff&style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/Ranahmad1?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d0d0d"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-ff6b35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%40+MADigital.pk+%F0%9F%9A%80;Building+AI-powered+Web+Products+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Laravel;BSCS+Student+%40+UCP+%E2%80%94+Batch+2025;Faisalabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+The+World"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%40+MADigital.pk+%F0%9F%9A%80;Building+AI-powered+Web+Products+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Laravel;BSCS+Student+%40+UCP+%E2%80%94+Batch+2025;n8n+Automation+%7C+ERP+Systems+%7C+Open+Source;Faisalabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%86%92+The+World"/>
 
 <br/>
 
-<!-- SOCIALS -->
 <a href="https://ranahmad1.github.io/rana-ahmad-portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-0d0d0d?style=for-the-badge"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ranahmad0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rana-ahmad-896004365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:ahmadaslam0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Ranahmad1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -53,20 +52,27 @@ Full Stack Engineer
 ## 🧠 About Me
 
 ```yaml
+name:     Rana Ahmad
 role:     Full Stack Engineer
 company:  MADigital.pk
-degree:   BSCS — UCP (2025)
+degree:   BSCS — UCP (Batch 2025)
 location: Faisalabad, Pakistan 🇵🇰
 
-focus:
-  - Full stack web apps
-  - AI & LLM integration
-  - ERP systems (FlexERP)
-  - E-commerce (Shopify Expert)
+stack:
+  - React · Next.js · TypeScript
+  - Node.js · PHP · Laravel · Python
+  - MySQL · PostgreSQL · MongoDB
+  - n8n Automation · AI Integration
 
 building:
-  - AI features @ MADigital.pk
-  - FlexERP — SaaS ERP venture
+  - AI-powered features @ MADigital.pk
+  - FlexERP — SaaS ERP for Pakistan
+  - Open source automation tools
+
+open_to:
+  - Full Stack roles (remote/hybrid)
+  - Freelance projects
+  - Open source collaboration
 
 motto: "Ship things that matter."
 ```
@@ -84,7 +90,7 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Streak
+## 📊 GitHub Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Ranahmad1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=7dd3fc&sideNums=ffffff&currStreakNum=ffffff" width="65%"/>
@@ -92,31 +98,71 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 Achievements
+## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Repos-5+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
-<br/><sub>Public Repos</sub>
+<td width="50%" valign="top">
+
+### 🔧 n8n Self-Healing Workflow
+**n8n · JavaScript · Automation**
+
+- 🤖 Auto-captures any node failure
+- 🔍 Classifies 10+ error types (rate limit, timeout, auth...)
+- 🧠 Generates AI recovery strategy
+- 🛡️ Human approval gate for risky fixes
+- 📋 Full structured execution log
+
+[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/n8n-self-healing-workflow)
+[![Stars](https://img.shields.io/github/stars/Ranahmad1/n8n-self-healing-workflow?style=for-the-badge&color=00d4ff)](https://github.com/Ranahmad1/n8n-self-healing-workflow/stargazers)
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-1+_Year-7c3aed?style=for-the-badge&logo=lightning&logoColor=white"/>
-<br/><sub>Professional</sub>
+<td width="50%" valign="top">
+
+### 🌌 RA.OS — AI Portfolio
+**Vanilla JS · Canvas API · CSS3**
+
+- 🚀 Boot sequence animation
+- 🌠 3D space canvas background
+- 🤖 Ahmad Bot — 70+ intents chatbot
+- 📡 Live GitHub project feed
+- 🏆 Certificate museum gallery
+
+[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/rana-ahmad-portfolio)
+[![Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ranahmad1.github.io/rana-ahmad-portfolio/)
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Certs-8+-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<br/><sub>Certifications</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Dev Resources
+**Markdown · HTML · CSS**
+
+- 📖 11 cheatsheets (HTML → Regex)
+- 🎨 4 ready-to-use HTML templates
+- 🏗️ Full system design notes
+- ⭐ MIT Licensed · Open Source
+
+[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/dev-resources)
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Award-Best_Overall-f59e0b?style=for-the-badge&logo=star&logoColor=white"/>
-<br/><sub>UCP Launchpad 2026</sub>
+<td width="50%" valign="top">
+
+### 🏦 Bank Management System
+**C++ · Qt Framework**
+
+- 💳 Full account lifecycle management
+- 💸 Transaction processing engine
+- 🖥️ Desktop GUI with Qt
+- 🔒 Secure data handling
+
+[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/bank-management-system-qt-cpp)
+
 </td>
 </tr>
 </table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -145,12 +191,35 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Certifications
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| 🏆 Award | 🏛️ Issuer | 📅 Year |
-|----------|-----------|---------|
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repos-6+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><sub>Public Repos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-1+_Year-7c3aed?style=for-the-badge&logo=lightning&logoColor=white"/>
+<br/><sub>Professional</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Certs-8+-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<br/><sub>Certifications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Award-Best_Overall-f59e0b?style=for-the-badge&logo=star&logoColor=white"/>
+<br/><sub>UCP Launchpad 2026</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+| 🏆 Award / Certification | 🏛️ Issuer | 📅 Year |
+|---|---|---|
 | 🥇 **Overall Best — Digital Logic Design** | UCP Launchpad | 2026 |
 | 🎓 Shopify E-Commerce Expert | SMIT Batch-1 | 2025 |
 | 🎓 Full Stack Web Engineer | NITSEP | 2025 |
@@ -164,82 +233,14 @@ motto: "Ship things that matter."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📌 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 RA.OS — AI Portfolio
-**Vanilla JS · Canvas API · CSS3**
-
-- 🚀 Boot sequence animation
-- 🌠 3D space canvas background
-- 🤖 Ahmad Bot — 70+ intents chatbot
-- 📡 Live GitHub project feed
-- 🏆 Certificate museum gallery
-
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/rana-ahmad-portfolio)
-[![Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ranahmad1.github.io/rana-ahmad-portfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Bank Management System
-**C++ · Qt Framework**
-
-- 💳 Full account lifecycle management
-- 💸 Transaction processing engine
-- 🖥️ Desktop GUI with Qt
-- 🔒 Secure data handling
-
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/bank-management-system-qt-cpp)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Dev Resources
-**Markdown · HTML · CSS**
-
-- 📖 11 cheatsheets (HTML → Regex)
-- 🎨 4 ready-to-use HTML templates
-- 🏗️ Full system design notes
-- ⭐ MIT Licensed · Open Source
-
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/dev-resources)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 FlexERP *(In Progress)*
-**Full Stack · SaaS · AI-Powered**
-
-- 🏢 ERP for Pakistani businesses
-- 🤖 AI-powered analytics
-- 📊 Inventory · HR · Finance modules
-- 🌐 Multi-tenant SaaS architecture
-
-*Launching soon...*
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Calendar
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.raction.me/00d4ff/Ranahmad1">
-  <img src="https://ghchart.raction.me/00d4ff/Ranahmad1" alt="Rana Ahmad's GitHub Contribution Chart" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
 </picture>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -248,12 +249,28 @@ motto: "Ship things that matter."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,40:0f3460,100:00d4ff&section=footer" width="100%"/>
 
-*"The best time to start was yesterday. The next best time is now."*
+### 💬 Let's Connect
 
-**⭐ Star my repos if they helped you — it means a lot!**
+> I'm open to **full stack roles**, **freelance projects**, and **open source collaboration**.
+> Based in Faisalabad, Pakistan — available remotely worldwide.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-ahmad-896004365/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadaslam0904@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ranahmad1.github.io/rana-ahmad-portfolio/)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+**⭐ If any of my repos helped you — a star means a lot. Thank you!**
 
 </div>
+
+<!--
+SEO KEYWORDS (for search engines indexing this profile):
+Rana Ahmad GitHub | Full Stack Engineer Pakistan | React Developer Faisalabad | Next.js Developer Pakistan |
+Node.js Developer Pakistan | Laravel Developer | Python Developer Pakistan | n8n Automation | AI Developer Pakistan |
+ERP Developer Pakistan | FlexERP | MADigital | BSCS UCP Faisalabad | Open Source Pakistan | Web Developer Faisalabad |
+Full Stack Web Developer Pakistan | JavaScript Developer | TypeScript Developer | Shopify Developer Pakistan |
+Oracle APEX | WordPress Developer | Portfolio Rana Ahmad | ahmadaslam0904
+-->
