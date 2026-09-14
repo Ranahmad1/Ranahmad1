@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ranahmad1/rana-ahmad-portfolio/main/assets/images/profile-photo.jpg" width="160" style="border-radius:50%;border:3px solid #00d4ff"/>
+<img src="https://avatars.githubusercontent.com/u/296808867?v=4" width="160" style="border-radius:50%;border:3px solid #00d4ff"/>
 
 <br/><br/>
 
@@ -105,6 +105,21 @@ motto: "Ship things that matter."
 <tr>
 <td width="50%" valign="top">
 
+### 🔍 gitscope — Security Auditor
+**Python · CLI · DevSecOps**
+
+- 🔐 Scans repos for hardcoded secrets & credentials
+- 📜 Git history scanning (catches deleted secrets)
+- 📊 Security score 0–100 with A–F grade
+- 🚫 Zero dependencies — pure Python stdlib
+- ⚙️ CI/CD ready with JSON output & exit codes
+
+[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/gitscope)
+[![Stars](https://img.shields.io/github/stars/Ranahmad1/gitscope?style=for-the-badge&color=00d4ff)](https://github.com/Ranahmad1/gitscope/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔧 n8n Self-Healing Workflow
 **n8n · JavaScript · Automation**
 
@@ -118,6 +133,8 @@ motto: "Ship things that matter."
 [![Stars](https://img.shields.io/github/stars/Ranahmad1/n8n-self-healing-workflow?style=for-the-badge&color=00d4ff)](https://github.com/Ranahmad1/n8n-self-healing-workflow/stargazers)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌌 RA.OS — AI Portfolio
@@ -133,8 +150,6 @@ motto: "Ship things that matter."
 [![Demo](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ranahmad1.github.io/rana-ahmad-portfolio/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 Dev Resources
@@ -146,19 +161,6 @@ motto: "Ship things that matter."
 - ⭐ MIT Licensed · Open Source
 
 [![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/dev-resources)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Bank Management System
-**C++ · Qt Framework**
-
-- 💳 Full account lifecycle management
-- 💸 Transaction processing engine
-- 🖥️ Desktop GUI with Qt
-- 🔒 Secure data handling
-
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/Ranahmad1/bank-management-system-qt-cpp)
 
 </td>
 </tr>
@@ -198,7 +200,7 @@ motto: "Ship things that matter."
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Repos-6+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repos-7+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
 <br/><sub>Public Repos</sub>
 </td>
 <td align="center" width="25%">
@@ -237,9 +239,9 @@ motto: "Ship things that matter."
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranahmad1/Ranahmad1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranahmad1/Ranahmad1/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Ranahmad1/Ranahmad1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
 </picture>
 </div>
 
@@ -267,10 +269,10 @@ motto: "Ship things that matter."
 </div>
 
 <!--
-SEO KEYWORDS (for search engines indexing this profile):
+SEO KEYWORDS:
 Rana Ahmad GitHub | Full Stack Engineer Pakistan | React Developer Faisalabad | Next.js Developer Pakistan |
 Node.js Developer Pakistan | Laravel Developer | Python Developer Pakistan | n8n Automation | AI Developer Pakistan |
 ERP Developer Pakistan | FlexERP | MADigital | BSCS UCP Faisalabad | Open Source Pakistan | Web Developer Faisalabad |
 Full Stack Web Developer Pakistan | JavaScript Developer | TypeScript Developer | Shopify Developer Pakistan |
-Oracle APEX | WordPress Developer | Portfolio Rana Ahmad | ahmadaslam0904
+Oracle APEX | WordPress Developer | Portfolio Rana Ahmad | ahmadaslam0904 | gitscope | security tools
 -->
