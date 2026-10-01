@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Rana Ahmad — Full Stack Engineer">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".55" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#7c3aed" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity=".7"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="card"><rect width="1000" height="300" rx="24"/></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="300" fill="#080a14"/>
+    <g filter="url(#blur)">
+      <circle cx="180" cy="80" r="130" fill="#7c3aed" opacity=".55">
+        <animateTransform attributeName="transform" type="translate" values="0 0;120 60;0 0" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="230" r="140" fill="#06b6d4" opacity=".45">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-140 -50;0 0" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="40" r="90" fill="#ec4899" opacity=".35">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-80 90;0 0" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect width="1000" height="300" fill="url(#grid)"/>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="23" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- window chrome -->
+  <circle cx="44" cy="42" r="5.5" fill="#ff5f57"/>
+  <circle cx="66" cy="42" r="5.5" fill="#febc2e"/>
+  <circle cx="88" cy="42" r="5.5" fill="#28c840"/>
+  <text x="116" y="47" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8b93b8">ranahmad@faisalabad:~ $ whoami</text>
+
+  <!-- name -->
+  <text x="58" y="148" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="-2" fill="url(#name)">Rana Ahmad</text>
+
+  <!-- cycling roles -->
+  <rect x="60" y="182" width="11" height="28" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" fill="#e5e7ff">
+    <text x="84" y="204" opacity="0">Full Stack Engineer @ MADigital.pk
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.22;.26;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="84" y="204" opacity="0">Building FlexERP — ERP for Pakistan
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.22;.26;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="84" y="204" opacity="0">AI agents · n8n · automation
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.22;.26;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="84" y="204" opacity="0">Open source · DevSecOps · gitscope
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.22;.26;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- pills -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c4c9ee" text-anchor="middle">
+    <rect x="60" y="240" width="160" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".5"/>
+    <text x="140" y="260">Faisalabad, PK</text>
+    <rect x="234" y="240" width="150" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#22d3ee" stroke-opacity=".5"/>
+    <text x="309" y="260">MADigital.pk</text>
+    <rect x="398" y="240" width="130" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#f472b6" stroke-opacity=".5"/>
+    <text x="463" y="260">UCP · BSCS</text>
+    <rect x="542" y="240" width="105" height="30" rx="15" fill="#ffffff" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".5"/>
+    <text x="594" y="260">FlexERP</text>
+  </g>
+
+  <!-- orbit emblem -->
+  <g transform="translate(860 160)">
+    <circle r="82" fill="none" stroke="#22d3ee" stroke-opacity=".6" stroke-width="2" stroke-dasharray="8 14">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="62" fill="none" stroke="#f472b6" stroke-opacity=".6" stroke-width="2" stroke-dasharray="3 10">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="40" fill="#0b0f22" stroke="url(#name)" stroke-width="2"/>
+    <text y="12" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="34" font-weight="700" fill="url(#name)">&lt;/&gt;</text>
+  </g>
+</svg>
